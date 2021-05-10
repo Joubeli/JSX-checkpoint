@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div style={{ border: "solid 1px black", maxWidth: '100vw' }}>
-        <h1 className="title red">Your name here</h1>
+        <h1 className="title red">Imen Joubeli (BouAli)</h1>
         <br />
         <img src="./login1.png" alt="logo1" width="220" height="240"></img>
         <br />
